@@ -20,29 +20,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "ngZjAm7L0B",
-        "collectionId": "zR51jI-vfn",
-        "name": "Promo With Benefits",
-        "description": "",
-        "status": "published",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "datasourceIds": [],
-        "createdAt": "2023-05-25T07:35:29.551+00:00",
-        "stagedAt": "2023-08-02T09:21:55.246+00:00",
-        "publishedAt": "2023-08-02T09:22:14.385+00:00",
-        "modifiedAt": "2023-08-02T09:22:14.385+00:00",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
-      },
-      {
-        "libraryId": "generated",
         "id": "NIgQ4zdtlQ",
         "collectionId": "zR51jI-vfn",
         "name": "Promo",
@@ -50,19 +27,46 @@
         "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
         "datasourceIds": [],
-        "createdAt": "2023-05-29T11:31:03.424+00:00",
-        "stagedAt": "2023-08-02T09:22:21.595+00:00",
-        "publishedAt": "2023-08-02T09:22:34.204+00:00",
-        "modifiedAt": "2023-08-02T09:22:34.204+00:00",
+        "createdAt": "2023-05-29T11:31:03.424Z",
+        "stagedAt": "2023-08-02T09:22:21.595Z",
+        "publishedAt": "2023-08-02T09:22:34.204Z",
+        "modifiedAt": "2023-08-02T09:22:34.204Z",
         "modifiedBy": {
           "id": "63f77560c538c12a3133eaa8",
           "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
           "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
+        "id": "ngZjAm7L0B",
+        "collectionId": "zR51jI-vfn",
+        "name": "Promo With Benefits",
+        "description": "",
+        "status": "published",
+        "versionCount": 3,
+        "stagedVersionCount": 3,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [],
+        "createdAt": "2023-05-25T07:35:29.551Z",
+        "stagedAt": "2023-08-02T09:21:55.246Z",
+        "publishedAt": "2023-08-02T09:22:14.385Z",
+        "modifiedAt": "2023-08-02T09:22:14.385Z",
+        "modifiedBy": {
+          "id": "63f77560c538c12a3133eaa8",
+          "name": "Neli Kostadinova",
+          "email": "neli.kostadinova@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
       }
     ]
   },
@@ -77,6 +81,33 @@
     "components": [
       {
         "libraryId": "generated",
+        "id": "FnbXCgP1cr",
+        "collectionId": "JYYIXneyeG",
+        "name": "Session Promo",
+        "description": "",
+        "status": "published",
+        "versionCount": 3,
+        "stagedVersionCount": 3,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "d8aa73e1c2754eeebb9d333925e51952"
+        ],
+        "createdAt": "2023-06-29T10:20:06.611Z",
+        "stagedAt": "2023-08-02T09:18:50.9Z",
+        "publishedAt": "2023-08-02T12:50:02.717Z",
+        "modifiedAt": "2023-08-02T12:50:02.717Z",
+        "modifiedBy": {
+          "id": "63f77560c538c12a3133eaa8",
+          "name": "Neli Kostadinova",
+          "email": "neli.kostadinova@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
         "id": "KzEssOTo6j",
         "collectionId": "JYYIXneyeG",
         "name": "Speaker Promo",
@@ -84,21 +115,23 @@
         "status": "published",
         "versionCount": 4,
         "stagedVersionCount": 4,
+        "embeddableVersionCount": 1,
         "datasourceIds": [
           "819c5f1d58e0432fbd5aa523ba8aebce"
         ],
-        "createdAt": "2023-05-25T08:12:41.126+00:00",
-        "stagedAt": "2023-08-02T09:21:31.13+00:00",
-        "publishedAt": "2023-08-02T09:21:39.373+00:00",
-        "modifiedAt": "2023-08-02T09:21:39.373+00:00",
+        "createdAt": "2023-05-25T08:12:41.126Z",
+        "stagedAt": "2023-08-02T09:21:31.13Z",
+        "publishedAt": "2023-08-02T09:21:39.373Z",
+        "modifiedAt": "2023-08-02T09:21:39.373Z",
         "modifiedBy": {
           "id": "63f77560c538c12a3133eaa8",
           "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
           "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -109,46 +142,23 @@
         "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
         "datasourceIds": [
           "3b884b3054c1464caaddf8bd94e7c38e"
         ],
-        "createdAt": "2023-05-25T08:12:41.126+00:00",
-        "stagedAt": "2023-08-02T09:20:47.018+00:00",
-        "publishedAt": "2023-08-02T09:20:47.018+00:00",
-        "modifiedAt": "2023-08-02T09:20:47.018+00:00",
+        "createdAt": "2023-05-25T08:12:41.126Z",
+        "stagedAt": "2023-08-02T09:20:47.018Z",
+        "publishedAt": "2023-08-02T09:20:47.018Z",
+        "modifiedAt": "2023-08-02T09:20:47.018Z",
         "modifiedBy": {
           "id": "63f77560c538c12a3133eaa8",
           "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
           "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
-      },
-      {
-        "libraryId": "generated",
-        "id": "FnbXCgP1cr",
-        "collectionId": "JYYIXneyeG",
-        "name": "Session Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "datasourceIds": [
-          "d8aa73e1c2754eeebb9d333925e51952"
-        ],
-        "createdAt": "2023-06-29T10:20:06.611+00:00",
-        "stagedAt": "2023-08-02T09:18:50.9+00:00",
-        "publishedAt": "2023-08-02T12:50:02.717+00:00",
-        "modifiedAt": "2023-08-02T12:50:02.717+00:00",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
           "givenName": "Neli",
-          "familyName": "Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -159,21 +169,23 @@
         "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
         "datasourceIds": [
           "dfed4457d760457abec1c0dccdc44381"
         ],
-        "createdAt": "2023-05-29T11:31:03.424+00:00",
-        "stagedAt": "2023-08-02T09:19:21.395+00:00",
-        "publishedAt": "2023-08-02T09:19:29.666+00:00",
-        "modifiedAt": "2023-08-02T09:19:29.666+00:00",
+        "createdAt": "2023-05-29T11:31:03.424Z",
+        "stagedAt": "2023-08-02T09:19:21.395Z",
+        "publishedAt": "2023-08-02T09:19:29.666Z",
+        "modifiedAt": "2023-08-02T09:19:29.666Z",
         "modifiedBy": {
           "id": "63f77560c538c12a3133eaa8",
           "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
           "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
       }
     ]
   },
@@ -195,19 +207,21 @@
         "status": "staged",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
-        "createdAt": "2023-06-08T08:45:02.309+00:00",
-        "stagedAt": "2023-06-08T13:06:57.252+00:00",
-        "publishedAt": "2023-06-08T13:06:57.252+00:00",
-        "modifiedAt": "2023-06-08T13:06:57.252+00:00",
+        "createdAt": "2023-06-08T08:45:02.309Z",
+        "stagedAt": "2023-06-08T13:06:57.252Z",
+        "publishedAt": "2023-06-08T13:06:57.252Z",
+        "modifiedAt": "2023-06-08T13:06:57.252Z",
         "modifiedBy": {
           "id": "62f3ba1cba5df761961e5a78",
           "name": "Sintija Potaicuka",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka",
           "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -218,19 +232,21 @@
         "status": "staged",
         "versionCount": 1,
         "stagedVersionCount": 1,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
-        "createdAt": "2023-06-08T09:12:34.113+00:00",
-        "stagedAt": "2023-06-08T13:06:24.758+00:00",
-        "publishedAt": "2023-06-08T13:06:24.758+00:00",
-        "modifiedAt": "2023-06-08T13:06:24.758+00:00",
+        "createdAt": "2023-06-08T09:12:34.113Z",
+        "stagedAt": "2023-06-08T13:06:24.758Z",
+        "publishedAt": "2023-06-08T13:06:24.758Z",
+        "modifiedAt": "2023-06-08T13:06:24.758Z",
         "modifiedBy": {
           "id": "62f3ba1cba5df761961e5a78",
           "name": "Sintija Potaicuka",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka",
           "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
       }
     ]
   },
@@ -245,29 +261,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "bkpRNHFB2v",
-        "collectionId": "ZvLugTjxGu",
-        "name": "Two product teaser",
-        "description": "",
-        "status": "staged",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "datasourceIds": [],
-        "createdAt": "2023-06-08T11:36:57.759+00:00",
-        "stagedAt": "2023-06-08T14:27:31.972+00:00",
-        "publishedAt": "2023-06-08T14:27:31.972+00:00",
-        "modifiedAt": "2023-06-08T14:27:31.972+00:00",
-        "modifiedBy": {
-          "id": "62f3ba1cba5df761961e5a78",
-          "name": "Sintija Potaicuka",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka",
-          "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
-        }
-      },
-      {
-        "libraryId": "generated",
         "id": "49QMhYO5HD",
         "collectionId": "ZvLugTjxGu",
         "name": "Product teaser list",
@@ -275,19 +268,46 @@
         "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 0,
         "datasourceIds": [],
-        "createdAt": "2023-06-08T09:27:58.572+00:00",
-        "stagedAt": "2023-06-08T14:31:06.461+00:00",
-        "publishedAt": "2023-06-08T14:31:06.461+00:00",
-        "modifiedAt": "2023-06-09T10:17:20.928+00:00",
+        "createdAt": "2023-06-08T09:27:58.572Z",
+        "stagedAt": "2023-06-08T14:31:06.461Z",
+        "publishedAt": "2023-06-08T14:31:06.461Z",
+        "modifiedAt": "2023-06-09T10:17:20.928Z",
         "modifiedBy": {
           "id": "62f3ba1cba5df761961e5a78",
           "name": "Sintija Potaicuka",
-          "givenName": "Sintija",
-          "familyName": "Potaicuka",
           "email": "sintija.potaicuka@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
+        "id": "bkpRNHFB2v",
+        "collectionId": "ZvLugTjxGu",
+        "name": "Two product teaser",
+        "description": "",
+        "status": "staged",
+        "versionCount": 3,
+        "stagedVersionCount": 3,
+        "embeddableVersionCount": 0,
+        "datasourceIds": [],
+        "createdAt": "2023-06-08T11:36:57.759Z",
+        "stagedAt": "2023-06-08T14:27:31.972Z",
+        "publishedAt": "2023-06-08T14:27:31.972Z",
+        "modifiedAt": "2023-06-08T14:27:31.972Z",
+        "modifiedBy": {
+          "id": "62f3ba1cba5df761961e5a78",
+          "name": "Sintija Potaicuka",
+          "email": "sintija.potaicuka@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/377f12a848dbd6e352920bce2685c063?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fsi.png",
+          "givenName": "Sintija",
+          "familyName": "Potaicuka"
+        },
+        "bundles": []
       }
     ]
   },
@@ -306,22 +326,36 @@
         "collectionId": "2kDkq3aAw3",
         "name": "Countdown Banner",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
+        "embeddableVersionCount": 1,
         "datasourceIds": [],
-        "createdAt": "2023-07-25T14:32:59.514+00:00",
-        "stagedAt": "2023-08-03T12:33:41.827+00:00",
-        "publishedAt": "2023-08-03T12:33:41.827+00:00",
-        "modifiedAt": "2023-08-03T12:33:41.827+00:00",
+        "createdAt": "2023-07-25T14:32:59.514Z",
+        "stagedAt": "2023-08-03T12:33:41.827Z",
+        "publishedAt": "2023-08-03T12:33:41.827Z",
+        "modifiedAt": "2025-02-04T02:24:58.075Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "givenName": "Neli",
-          "familyName": "Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png"
-        }
+          "id": "6306f3c6a92b119da1de3a5e",
+          "name": "Sean Holmesby",
+          "email": "sean.holmesby@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/464421fc90902000fb97ab6bb04cc465?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+          "givenName": "Sean",
+          "familyName": "Holmesby"
+        },
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "AopQJ8Q0yN",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-02-04T02:24:57.521Z",
+            "modifiedAt": "2025-02-04T02:24:57.521Z"
+          }
+        ]
       }
     ]
   },
@@ -341,23 +375,25 @@
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
         "status": "published",
-        "versionCount": 2,
+        "versionCount": 1,
         "stagedVersionCount": 1,
+        "embeddableVersionCount": 1,
         "datasourceIds": [
           "Athlete"
         ],
-        "createdAt": "2023-11-15T17:27:04.26+00:00",
-        "stagedAt": "2023-11-15T21:20:04.739+00:00",
-        "publishedAt": "2023-11-15T21:20:04.739+00:00",
-        "modifiedAt": "2023-11-15T21:20:04.739+00:00",
+        "createdAt": "2023-11-15T17:27:04.26Z",
+        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "publishedAt": "2023-11-16T18:10:05.908Z",
+        "modifiedAt": "2023-11-16T18:10:05.908Z",
         "modifiedBy": {
           "id": "63ed31bdc5dac322725263de",
           "name": "Alexander Doroshenko",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko",
           "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png"
-        }
+          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
+          "givenName": "Alexander",
+          "familyName": "Doroshenko"
+        },
+        "bundles": []
       }
     ]
   }

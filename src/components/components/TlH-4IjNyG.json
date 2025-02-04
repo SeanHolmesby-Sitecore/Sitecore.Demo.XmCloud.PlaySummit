@@ -4,6 +4,7 @@
     "id": "MTqd5II-hy",
     "componentId": "TlH-4IjNyG",
     "name": "Default",
+    "description": "",
     "status": "published",
     "orderIdx": "03qKK",
     "revision": 162,
@@ -14,6 +15,7 @@
     "datasourceIds": [
       "Athlete"
     ],
+    "isEmbeddable": false,
     "forkOriginId": null,
     "forkOriginRevision": 0,
     "forkedAt": null,
@@ -37,6 +39,7 @@
     "id": "MTqd5II-hy",
     "componentId": "TlH-4IjNyG",
     "name": "Default",
+    "description": "",
     "status": "staged",
     "orderIdx": "03qKK",
     "revision": 162,
@@ -47,6 +50,7 @@
     "datasourceIds": [
       "Athlete"
     ],
+    "isEmbeddable": false,
     "forkOriginId": null,
     "forkOriginRevision": 0,
     "forkedAt": null,
@@ -70,6 +74,7 @@
     "id": "MTqd5II-hy",
     "componentId": "TlH-4IjNyG",
     "name": "Default",
+    "description": "",
     "status": "saved",
     "orderIdx": "03qKK",
     "revision": 162,
@@ -80,6 +85,7 @@
     "datasourceIds": [
       "Athlete"
     ],
+    "isEmbeddable": false,
     "forkOriginId": null,
     "forkOriginRevision": 0,
     "forkedAt": null,

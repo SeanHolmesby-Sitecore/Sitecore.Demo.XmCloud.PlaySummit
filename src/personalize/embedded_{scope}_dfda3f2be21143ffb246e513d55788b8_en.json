@@ -1,11 +1,11 @@
 {
   "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
-  "href": "https://api-us.boxever.com/v3/flowDefinitions/454e65fe-4d13-4e81-9fad-cecafd84cd62",
-  "ref": "454e65fe-4d13-4e81-9fad-cecafd84cd62",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/a3654909-8189-4bb0-9351-115e69d61fbc",
+  "ref": "a3654909-8189-4bb0-9351-115e69d61fbc",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
-  "modifiedByRef": "auth0|63ed31bdc5dac322725263de",
-  "modifiedAt": "2023-12-18T15:46:37.795Z",
-  "revision": 5,
+  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
+  "modifiedAt": "2025-02-04T00:43:22.995Z",
+  "revision": 2,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2023-12-18T15:46:37.825Z",
+    "modifiedAt": "2025-02-04T00:43:23.128Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,7 +84,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "2f9fb956-0a1f-48e5-b919-f9f684e73f08",
+      "ref": "f0702206-75a0-48ff-bfe9-80d49587cce8",
       "name": "Google Campaign",
       "tasks": [
         {
@@ -120,11 +120,12 @@
     "startDate": "2023-12-18T15:44:36.506Z"
   },
   "revisions": {
-    "href": "https://api-us.boxever.com/v3/flowDefinitions/454e65fe-4d13-4e81-9fad-cecafd84cd62/revisions"
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/a3654909-8189-4bb0-9351-115e69d61fbc/revisions"
   },
   "sampleSizeConfig": {
     "baseValue": 0.15,
     "minimumDetectableDifference": 0.02,
     "confidenceLevel": 0.95
-  }
+  },
+  "notificationEnabled": false
 }
