@@ -204,10 +204,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 3,
         "datasourceIds": [],
         "createdAt": "2023-06-08T08:45:02.309Z",
         "stagedAt": "2023-06-08T13:06:57.252Z",
@@ -229,10 +229,10 @@
         "collectionId": "EfQDdUxRmd",
         "name": "Large teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 1,
         "stagedVersionCount": 1,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:12:34.113Z",
         "stagedAt": "2023-06-08T13:06:24.758Z",
@@ -268,7 +268,7 @@
         "status": "changed",
         "versionCount": 2,
         "stagedVersionCount": 2,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 2,
         "datasourceIds": [],
         "createdAt": "2023-06-08T09:27:58.572Z",
         "stagedAt": "2023-06-08T14:31:06.461Z",
@@ -290,10 +290,10 @@
         "collectionId": "ZvLugTjxGu",
         "name": "Two product teaser",
         "description": "",
-        "status": "staged",
+        "status": "published",
         "versionCount": 3,
         "stagedVersionCount": 3,
-        "embeddableVersionCount": 0,
+        "embeddableVersionCount": 4,
         "datasourceIds": [],
         "createdAt": "2023-06-08T11:36:57.759Z",
         "stagedAt": "2023-06-08T14:27:31.972Z",
@@ -332,7 +332,7 @@
         "embeddableVersionCount": 1,
         "datasourceIds": [],
         "createdAt": "2023-07-25T14:32:59.514Z",
-        "stagedAt": "2023-08-03T12:33:41.827Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-03T12:33:41.827Z",
         "modifiedAt": "2025-02-04T02:24:58.075Z",
         "modifiedBy": {
@@ -343,19 +343,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "AopQJ8Q0yN",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-04T02:24:57.521Z",
-            "modifiedAt": "2025-02-04T02:24:57.521Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },

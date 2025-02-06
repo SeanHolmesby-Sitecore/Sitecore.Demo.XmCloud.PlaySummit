@@ -22,6 +22,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "025898a9-3beb-4afa-b37a-e45e00f2ff2f"
       Hint: TwitterProfileLink
       Value: "https://twitter.com/#"
@@ -49,13 +52,64 @@ Languages:
       Value: "{F31705C9-7A5A-42DB-8651-B0665EEEC77B}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d0e1125e-15a9-44dd-b59e-533017deac0c"
+      Value: "4e8d8f9b-7c39-4ef4-8081-9df7f2379982"
     - ID: "be48543c-ebb6-47d2-a0be-508184f2796b"
       Hint: Description
       Value: "<p>Gameday is a leading sports apparel and equipment brand, known for its innovative, high-performance products. They cater to a wide range of sports disciplines and are committed to helping athletes and fitness enthusiasts achieve their best performance. Gameday offers a diverse selection of items from activewear, shoes, to sports gear. At the PLAY! Summit Conference, Gameday will be showcasing their latest collection, demonstrating their commitment to quality, functionality, and design.</p>"
     - ID: "d57b5629-9801-4418-9088-8a8dfa8fc84c"
       Hint: Name
+      Value: Sean Gameday
+    - ID: "da7733f4-3061-4f93-a870-9aff906af40b"
+      Hint: FacebookProfileLink
+      Value: "https://www.facebook.com/#"
+    - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
+      Hint: pageTitle
       Value: Gameday
+    - ID: "fd7bc390-6104-4990-8271-9bd50cd4115e"
+      Hint: LinkedinProfileLink
+      Value: "https://www.linkedin.com/#"
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "025898a9-3beb-4afa-b37a-e45e00f2ff2f"
+      Hint: TwitterProfileLink
+      Value: "https://twitter.com/#"
+    - ID: "21bd2ce2-43b1-4a8a-8383-1470d503c504"
+      Hint: ActivityType
+      Value: "{22B493EF-3E99-49F5-843E-94F03AE490B6}|{BF4FA415-73A4-4ECA-B20E-7756BF94C280}"
+    - ID: "2696b94c-fb09-4392-999a-9a7a7223f228"
+      Hint: InstagramProfileLink
+      Value: "https://www.instagram.com/#"
+    - ID: "36288362-9494-4174-a8a2-d846d958149d"
+      Hint: Level
+      Value: Gold
+    - ID: "3c5bc1cb-ad72-444f-bd6f-a9a09b6bc7bb"
+      Hint: Speakers
+      Value: "{ABC74708-2A5A-4AD9-94E6-15A6029252EC}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
+    - ID: "5f02c96d-6606-4508-8b81-4d4758e06291"
+      Hint: Logo
+      Value: |
+        <image stylelabs-content-id="33954" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/33954/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/f11314c7d09e43e0a645185a255c99cf?v=537a6046&amp;t=medium" mediaid="" stylelabs-content-type="Image" alt="Gameday Logo" height="1001" width="1001" />
+    - ID: "6a7f0807-1669-4c5b-bcd7-db9fc0bc86b3"
+      Hint: Sessions
+      Value: "{F31705C9-7A5A-42DB-8651-B0665EEEC77B}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d38f129b-6ce7-4d86-8aea-4fd1ab73cb52"
+    - ID: "be48543c-ebb6-47d2-a0be-508184f2796b"
+      Hint: Description
+      Value: "<p>Gameday is a leading sports apparel and equipment brand, known for its innovative, high-performance products. They cater to a wide range of sports disciplines and are committed to helping athletes and fitness enthusiasts achieve their best performance. Gameday offers a diverse selection of items from activewear, shoes, to sports gear. At the PLAY! Summit Conference, Gameday will be showcasing their latest collection, demonstrating their commitment to quality, functionality, and design.</p>"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20250206T030312Z
+    - ID: "d57b5629-9801-4418-9088-8a8dfa8fc84c"
+      Hint: Name
+      Value: Seany's Gameday
     - ID: "da7733f4-3061-4f93-a870-9aff906af40b"
       Hint: FacebookProfileLink
       Value: "https://www.facebook.com/#"

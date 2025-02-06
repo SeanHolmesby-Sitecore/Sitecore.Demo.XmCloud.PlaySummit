@@ -1,8 +1,8 @@
 ﻿---
-ID: "18ba797b-2ce9-411c-a72f-b9bb0ac450e7"
-Parent: "513d66ab-2d70-4d9a-81b7-98d0dbbd9e1c"
+ID: "b8b4e22a-8131-4e98-aaab-a4dc730176a8"
+Parent: "e70baf15-78a9-4e4c-ae81-3f9fffcbbf26"
 Template: "60c9ac62-4227-443e-8980-92c97e483832"
-Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/Demo Link List
+Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/Data/SeansList
 BranchID: "f2490b61-7d7d-4bbf-8cf6-3b355fdf4ce4"
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
@@ -19,17 +19,6 @@ Languages:
   Versions:
   - Version: 1
     Fields:
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "23aa59a6-9c29-4acd-9bfb-cd3b86d9dfe9"
-    - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
-      Hint: Title
-      Value: "Useful Links:"
-  - Version: 2
-    Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
@@ -38,10 +27,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7aeb7090-3c22-42c1-b0f0-aa1dc642b12b"
-    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
-      Hint: __Valid from
-      Value: 20250206T015027Z
+      Value: "1c9ec761-89e3-4799-a9b1-522deecf798b"
     - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
       Hint: Title
-      Value: "Useful Links:"
+      Value: My Links
