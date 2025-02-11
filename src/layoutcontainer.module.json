@@ -1,0 +1,23 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "LayoutContainer",
+  "items": {
+      "includes": [
+        {
+          "name":"LayoutContainer/layout/Renderings/Feature/JSS Experience Accelerator/Page Structure/LayoutContainer",
+          "path":"/sitecore/layout/Renderings/Feature/JSS Experience Accelerator/Page Structure/LayoutContainer",
+          "scope":"ItemAndDescendants"
+        },
+        {
+          "name":"LayoutContainer/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/LayoutContainer",
+          "path":"/sitecore/layout/Placeholder Settings/Feature/JSS Experience Accelerator/Page Structure/LayoutContainer",
+          "scope":"ItemAndDescendants"
+        },
+        {
+          "name":"LayoutContainer/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/LayoutContainer",
+          "path":"/sitecore/templates/Feature/JSS Experience Accelerator/Page Structure/Rendering Parameters/LayoutContainer",
+          "scope":"ItemAndDescendants"
+        }
+      ]
+  }
+}

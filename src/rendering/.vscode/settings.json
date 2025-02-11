@@ -5,5 +5,10 @@
 	"editor.tabSize": 2,
 	"editor.insertSpaces": true,
 	"markdown.extension.toc.orderedList": true,
-	"markdown.extension.toc.updateOnSave": false
+	"markdown.extension.toc.updateOnSave": false,
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#302E22",
+		"titleBar.activeBackground": "#444030",
+		"titleBar.activeForeground": "#FBFBFA"
+	}
 }
