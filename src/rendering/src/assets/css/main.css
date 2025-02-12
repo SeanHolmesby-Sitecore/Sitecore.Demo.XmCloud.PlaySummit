@@ -33,6 +33,9 @@
 
 /* 5. Our components */
 
+/*Layout Container */
+@import './components/LayoutContainer/LayoutContainer.css';
+
 /* Account */
 @import './components/Account/AccountLayout.css';
 @import './components/Account/AddressBook.css';

@@ -1,0 +1,135 @@
+.xmc-layout-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.xmc-layout-container {
+  display: flex;
+}
+.xmc-layout-container .xmc-layout-column {
+  flex-grow: 0;
+  flex-shrink: 1;
+}
+.xmc-layout-container .xmc-basis-full {
+  flex-basis: 100%;
+}
+.xmc-layout-container .xmc-basis-1-2 {
+  flex-basis: 50%;
+}
+.xmc-layout-container .xmc-basis-1-3 {
+  flex-basis: 33.333333%;
+}
+.xmc-layout-container .xmc-basis-2-3 {
+  flex-basis: 66.666667%;
+}
+.xmc-layout-container .xmc-basis-1-4 {
+  flex-basis: 25%;
+  width: 25%;
+}
+.xmc-layout-container .xmc-basis-2-4 {
+  flex-basis: 50%;
+}
+.xmc-layout-container .xmc-basis-3-4 {
+  flex-basis: 75%;
+}
+.xmc-layout-container .xmc-basis-1-5 {
+  flex-basis: 20%;
+}
+.xmc-layout-container .xmc-basis-2-5 {
+  flex-basis: 40%;
+}
+.xmc-layout-container .xmc-basis-3-5 {
+  flex-basis: 60%;
+}
+.xmc-layout-container .xmc-basis-4-5 {
+  flex-basis: 80%;
+}
+.xmc-layout-container .xmc-basis-1-6 {
+  flex-basis: 16.666667%;
+}
+.xmc-layout-container .xmc-basis-2-6 {
+  flex-basis: 33.333333%;
+}
+.xmc-layout-container .xmc-basis-3-6 {
+  flex-basis: 50%;
+}
+.xmc-layout-container .xmc-basis-4-6 {
+  flex-basis: 66.666667%;
+}
+.xmc-layout-container .xmc-basis-5-6 {
+  flex-basis: 83.333333%;
+}
+.xmc-layout-container .xmc-layout-column-content {
+  display: flex;
+  height: 100%;
+}
+.xmc-layout-container .xmc-flex-row {
+  flex-direction: row;
+}
+.xmc-layout-container .xmc-flex-col {
+  flex-direction: column;
+}
+.xmc-layout-container .xmc-items-start {
+  align-items: flex-start;
+  align-content: flex-start;
+}
+.xmc-layout-container .xmc-items-center {
+  align-items: center;
+  align-content: center;
+}
+.xmc-layout-container .xmc-items-end {
+  align-items: flex-end;
+  align-content: flex-end;
+}
+.xmc-layout-container .xmc-justify-distributed {
+  justify-content: space-between;
+}
+.xmc-layout-container .xmc-justify-start {
+  justify-content: flex-start;
+}
+.xmc-layout-container .xmc-justify-center {
+  justify-content: center;
+}
+.xmc-layout-container .xmc-justify-end {
+  justify-content: flex-end;
+}
+.xmc-layout-container .xmc-wrap {
+  flex-wrap: wrap;
+}
+.xmc-layout-container .xmc-no-wrap {
+  flex-wrap: nowrap;
+}
+
+@media only screen and (max-width: 370px) {
+  .xmc-sm-stack {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .xmc-md-stack {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .xmc-lg-stack {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .xmc-xl-stack {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+@media only screen and (max-width: 1536px) {
+  .xmc-xxl-stack {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}
+
+/*# sourceMappingURL=LayoutContainer.css.map */
