@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-@import './../sass/layout-container/index.scss'
-
 /* 1. Our configuration and helpers */
 
 @import './abstracts/mixins.css';
