@@ -21,7 +21,8 @@
         "renderinghost",
         "InitItems",
         "HeadlessSxaWebsite",
-        "HeadlessSxaWebsite-Content"
+        "HeadlessSxaWebsite-Content",
+        "LayoutContainer"
       ]
     },
     "postActions": {
