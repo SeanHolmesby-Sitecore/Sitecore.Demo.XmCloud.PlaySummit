@@ -1,0 +1,94 @@
+{
+  "clientKey": "3509a0a2b7cc0542af1e697ea16dafe9",
+  "href": "https://api-us.boxever.com/v3/flowDefinitions/6f39d448-1092-4263-9ff2-7c0475a89357",
+  "ref": "6f39d448-1092-4263-9ff2-7c0475a89357",
+  "name": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
+  "modifiedByRef": "auth0|6306f3c6a92b119da1de3a5e",
+  "modifiedAt": "2025-02-12T00:43:47.583Z",
+  "revision": 7,
+  "archived": false,
+  "friendlyId": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
+  "type": "INTERACTIVE_API_FLOW",
+  "subtype": "EXPERIENCE",
+  "channels": [
+    "WEB"
+  ],
+  "triggers": [],
+  "dashboardLinks": [],
+  "tags": [],
+  "businessProcess": "interactive_v1",
+  "siteId": "4905319f-5b19-4ec4-9860-7bfcf5d4a2b5",
+  "traffic": {
+    "type": "audienceTraffic",
+    "weightingAlgorithm": "USER_DEFINED",
+    "modifiedAt": "2025-02-12T00:43:47.708Z",
+    "splits": [
+      {
+        "template": "{\"variantId\": \"87ed8103a24846e4a8a233adb435330a\"}",
+        "variantName": "TimedTest",
+        "audienceName": "TimedTest",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "organization_date_and_time",
+                "params": {
+                  "is": "is",
+                  "before or after": "after",
+                  "date and time": "2025-02-28T11:30"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "variants": [],
+  "transpiledVariants": [
+    {
+      "ref": "9dd23e6c-5397-48bf-846e-21655eabf966",
+      "name": "TimedTest",
+      "tasks": [
+        {
+          "implementation": "templateRenderTask",
+          "input": {
+            "inputType": "templateRenderTaskInput",
+            "type": "application/json",
+            "template": "{\"variantId\": \"87ed8103a24846e4a8a233adb435330a\"}"
+          }
+        },
+        {
+          "implementation": "conditionsTask",
+          "input": {
+            "inputType": "conditionsTaskInput",
+            "rules": [
+              {
+                "id": "scriptCondition",
+                "name": "Combined condition groups",
+                "description": "Combined templates within condition group for targeted experience",
+                "ruleData": {
+                  "expression": "(function () {\n    load(\"classpath:moment.js\");\n    load(\"classpath:moment-timezone.js\");\n    var returnValue = false;\n    var comparison = false;\n    var comparator = \"is\";\n    var operatorValue = \"after\";\n    var datetime = \"2025-02-28T11:30\";\n    var tenantTimezone = \"\";\n\n    if (tenant && tenant.configurations && tenant.configurations.timeZone) {\n        tenantTimezone = tenant.configurations.timeZone;\n    }\n    var inputDateTime = moment.tz(datetime, tenantTimezone);\n    var tenantDateTime = moment.tz(tenantTimezone);\n    \n    if (operatorValue === 'before') {\n        comparison = tenantDateTime.isBefore(inputDateTime);\n    } else if (operatorValue === 'after') {\n        comparison = tenantDateTime.isAfter(inputDateTime);\n    }\n        \n    if (comparator === \"is\") {\n        returnValue = comparison;\n    } else {\n        returnValue = !comparison;\n    }\n    return returnValue;\n})();"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "status": "PRODUCTION",
+  "schedule": {
+    "type": "simpleSchedule",
+    "startDate": "2025-02-12T00:30:17.245Z"
+  },
+  "revisions": {
+    "href": "https://api-us.boxever.com/v3/flowDefinitions/6f39d448-1092-4263-9ff2-7c0475a89357/revisions"
+  },
+  "sampleSizeConfig": {
+    "baseValue": 0.15,
+    "minimumDetectableDifference": 0.02,
+    "confidenceLevel": 0.95
+  },
+  "notificationEnabled": false
+}

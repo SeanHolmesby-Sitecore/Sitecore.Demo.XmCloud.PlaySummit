@@ -85,7 +85,7 @@
         "collectionId": "JYYIXneyeG",
         "name": "Session Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 3,
         "stagedVersionCount": 3,
         "embeddableVersionCount": 1,
@@ -94,17 +94,29 @@
         ],
         "createdAt": "2023-06-29T10:20:06.611Z",
         "stagedAt": "2023-08-02T09:18:50.9Z",
-        "publishedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedAt": "2023-08-02T12:50:02.717Z",
+        "publishedAt": "2023-08-02T09:20:37.689Z",
+        "modifiedAt": "2025-02-12T01:12:23.316Z",
         "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
+          "id": "6306f3c6a92b119da1de3a5e",
+          "name": "Sean Holmesby",
+          "email": "sean.holmesby@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/464421fc90902000fb97ab6bb04cc465?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+          "givenName": "Sean",
+          "familyName": "Holmesby"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "FnbXCgP1cr",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-02-12T01:12:22.718Z",
+            "modifiedAt": "2025-02-12T01:12:22.718Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
@@ -362,7 +374,7 @@
         "collectionId": "-AC8JhQZKV",
         "name": "Athletes",
         "description": "Sample component featuring Athletes from connected Content Hub ONE instance.",
-        "status": "published",
+        "status": "changed",
         "versionCount": 1,
         "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
@@ -372,16 +384,28 @@
         "createdAt": "2023-11-15T17:27:04.26Z",
         "stagedAt": "2023-11-16T18:10:05.908Z",
         "publishedAt": "2023-11-16T18:10:05.908Z",
-        "modifiedAt": "2023-11-16T18:10:05.908Z",
+        "modifiedAt": "2025-02-12T01:11:31.89Z",
         "modifiedBy": {
-          "id": "63ed31bdc5dac322725263de",
-          "name": "Alexander Doroshenko",
-          "email": "alexander.doroshenko@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/df9103e3d366714986d5e437d998bf3d?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fal.png",
-          "givenName": "Alexander",
-          "familyName": "Doroshenko"
+          "id": "6306f3c6a92b119da1de3a5e",
+          "name": "Sean Holmesby",
+          "email": "sean.holmesby@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/464421fc90902000fb97ab6bb04cc465?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fse.png",
+          "givenName": "Sean",
+          "familyName": "Holmesby"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "TlH-4IjNyG",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-02-12T01:11:31.303Z",
+            "modifiedAt": "2025-02-12T01:11:31.303Z"
+          }
+        ]
       }
     ]
   }

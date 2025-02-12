@@ -1,0 +1,20 @@
+﻿---
+ID: "f6983ee8-80b6-4b90-809c-2304cdd01073"
+Parent: "e70baf15-78a9-4e4c-ae81-3f9fffcbbf26"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="ck-content"><p>Some text here to see how the demo goes and if it will be contained into this area?</p></div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe131a6c-dc94-4672-bf08-cb7da2f2ec3e"

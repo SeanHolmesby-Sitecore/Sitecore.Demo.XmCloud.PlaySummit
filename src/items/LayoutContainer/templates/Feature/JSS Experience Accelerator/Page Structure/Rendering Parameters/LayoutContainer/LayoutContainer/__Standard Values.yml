@@ -18,19 +18,9 @@ Languages:
     - ID: "0fdedb84-c42d-4d55-8790-f67eb2c311b4"
       Hint: EnabledColumns
       Value: 1
-    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
-      Hint: __Created
-      Value: 20130304T135400Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "90221f47-34ed-4654-8ec7-f0923dfb2cd3"
-    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
-      Hint: __Updated by
-      Value: |
-        sitecore\stanislav.maxymov@sitecore.com
-    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
-      Hint: __Updated
-      Value: 20240202T103923Z
     - ID: "e6442242-557d-4704-9038-8184fe6e31f7"
       Hint: ContainerStyles
       Value: "gap: 10px; width: 100%"
