@@ -4,8 +4,8 @@
   "ref": "a3654909-8189-4bb0-9351-115e69d61fbc",
   "name": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-02-12T00:03:08.039Z",
-  "revision": 8,
+  "modifiedAt": "2025-02-14T04:40:51.924Z",
+  "revision": 12,
   "archived": false,
   "friendlyId": "embedded_{scope}_dfda3f2be21143ffb246e513d55788b8_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-02-12T00:03:08.069Z",
+    "modifiedAt": "2025-02-14T04:40:51.944Z",
     "splits": [
       {
         "template": "{\"variantId\": \"dd8fb4b6f20a4c5882d86ae374b420e8\"}",
@@ -84,15 +84,15 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "3bd656d4-66c2-4e75-8eac-350257289b39",
-      "name": "LinkedIn Campaign",
+      "ref": "3c753b42-e433-4a6b-8cb8-d35a938a39de",
+      "name": "Google Campaign",
       "tasks": [
         {
           "implementation": "templateRenderTask",
           "input": {
             "inputType": "templateRenderTaskInput",
             "type": "application/json",
-            "template": "{\"variantId\": \"7bf523a1e41f459289910fa71f0d5832\"}"
+            "template": "{\"variantId\": \"608c9854dc064688acb42912b10a8744\"}"
           }
         },
         {
@@ -105,7 +105,7 @@
                 "name": "Combined condition groups",
                 "description": "Combined templates within condition group for targeted experience",
                 "ruleData": {
-                  "expression": "(function () {\n    var compareValue = \"is equal to\";\n    var utmType = \"source\";\n    var utmValue = \"linkedin\";\n    var utmMultiValue = \"\";\n    var utmArray = utmMultiValue.split(',');\n    var utmMatch = false;\n    \n    \n    if (request && request.params && request.params.utm) {\n        if (request.params.utm[utmType]) {\n            if (compareValue === 'is equal to') {\n               utmMatch = request.params.utm[utmType] === utmValue; \n            } else if (compareValue === 'includes any of') {\n                for (var k = 0; k < utmArray.length; k++) {\t\n                    if (request.params.utm[utmType] === utmArray[k]) {\t\n                        utmMatch = true;\t\n                        break;\t\n                    }\n                }\n            } else if (compareValue === 'contains') {\n                utmMatch = request.params.utm[utmType].indexOf(utmValue) >= 0 ? true : false;\n            } else if (compareValue === 'starts with') {\n                utmMatch = request.params.utm[utmType].startsWith(utmValue);\n            } else if (compareValue === 'ends with') {\n                utmMatch = request.params.utm[utmType].endsWith(utmValue);\n            } else if (compareValue === 'is null') {\n                utmMatch = !request.params.utm[utmType];\n            }\n        } else if (compareValue === 'is null') {\n      \t    utmMatch = true;\n        }\n    } else if (guest.sessions && guest.sessions.length > 0) {\n        var currentSession = null;\n        for (var i = 0; i < guest.sessions.length; i++) {\n          if (guest.sessions[i].channel === \"WEB\") {\n            currentSession = guest.sessions[i];\n            break;\n          }\n        }\n        if (currentSession && currentSession.events && currentSession.events.length > 0) {\n            var firstEventIndex = currentSession.events.length - 1;\n            var firstEvent = currentSession.events[firstEventIndex];\n            var utmTypeProperty = 'utm_' + utmType;\n            if (firstEvent.arbitraryData && firstEvent.arbitraryData[utmTypeProperty]) {\n                if (compareValue === 'is equal to') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty] === utmValue; \n                } else if (compareValue === 'includes any of') {\n                    for (var m = 0; m < utmArray.length; m++) {\t\n                        if (firstEvent.arbitraryData[utmTypeProperty] === utmArray[m]) {\t\n                            utmMatch = true;\t\n                            break;\t\n                        }\n                    }\n                } else if (compareValue === 'contains') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].indexOf(utmValue) >= 0 ? true : false;\n                } else if (compareValue === 'starts with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].startsWith(utmValue);\n                } else if (compareValue === 'ends with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].endsWith(utmValue);\n                } else if (compareValue === 'is null') {\n                    utmMatch = !firstEvent.arbitraryData[utmTypeProperty];\n                }\n            } else if (compareValue === 'is null') {\n          \t    utmMatch = true;\n            }\n        }\n    }\n    \n    return utmMatch;\n})();"
+                  "expression": "(function () {\n    var compareValue = \"is equal to\";\n    var utmType = \"source\";\n    var utmValue = \"google\";\n    var utmMultiValue = \"\";\n    var utmArray = utmMultiValue.split(',');\n    var utmMatch = false;\n    \n    \n    if (request && request.params && request.params.utm) {\n        if (request.params.utm[utmType]) {\n            if (compareValue === 'is equal to') {\n               utmMatch = request.params.utm[utmType] === utmValue; \n            } else if (compareValue === 'includes any of') {\n                for (var k = 0; k < utmArray.length; k++) {\t\n                    if (request.params.utm[utmType] === utmArray[k]) {\t\n                        utmMatch = true;\t\n                        break;\t\n                    }\n                }\n            } else if (compareValue === 'contains') {\n                utmMatch = request.params.utm[utmType].indexOf(utmValue) >= 0 ? true : false;\n            } else if (compareValue === 'starts with') {\n                utmMatch = request.params.utm[utmType].startsWith(utmValue);\n            } else if (compareValue === 'ends with') {\n                utmMatch = request.params.utm[utmType].endsWith(utmValue);\n            } else if (compareValue === 'is null') {\n                utmMatch = !request.params.utm[utmType];\n            }\n        } else if (compareValue === 'is null') {\n      \t    utmMatch = true;\n        }\n    } else if (guest.sessions && guest.sessions.length > 0) {\n        var currentSession = null;\n        for (var i = 0; i < guest.sessions.length; i++) {\n          if (guest.sessions[i].channel === \"WEB\") {\n            currentSession = guest.sessions[i];\n            break;\n          }\n        }\n        if (currentSession && currentSession.events && currentSession.events.length > 0) {\n            var firstEventIndex = currentSession.events.length - 1;\n            var firstEvent = currentSession.events[firstEventIndex];\n            var utmTypeProperty = 'utm_' + utmType;\n            if (firstEvent.arbitraryData && firstEvent.arbitraryData[utmTypeProperty]) {\n                if (compareValue === 'is equal to') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty] === utmValue; \n                } else if (compareValue === 'includes any of') {\n                    for (var m = 0; m < utmArray.length; m++) {\t\n                        if (firstEvent.arbitraryData[utmTypeProperty] === utmArray[m]) {\t\n                            utmMatch = true;\t\n                            break;\t\n                        }\n                    }\n                } else if (compareValue === 'contains') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].indexOf(utmValue) >= 0 ? true : false;\n                } else if (compareValue === 'starts with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].startsWith(utmValue);\n                } else if (compareValue === 'ends with') {\n                    utmMatch = firstEvent.arbitraryData[utmTypeProperty].endsWith(utmValue);\n                } else if (compareValue === 'is null') {\n                    utmMatch = !firstEvent.arbitraryData[utmTypeProperty];\n                }\n            } else if (compareValue === 'is null') {\n          \t    utmMatch = true;\n            }\n        }\n    }\n    \n    return utmMatch;\n})();"
                 }
               }
             ]

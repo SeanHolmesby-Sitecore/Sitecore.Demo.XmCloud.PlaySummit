@@ -93,7 +93,7 @@
           "d8aa73e1c2754eeebb9d333925e51952"
         ],
         "createdAt": "2023-06-29T10:20:06.611Z",
-        "stagedAt": "2023-08-02T09:18:50.9Z",
+        "stagedAt": null,
         "publishedAt": "2023-08-02T09:20:37.689Z",
         "modifiedAt": "2025-02-12T01:12:23.316Z",
         "modifiedBy": {
@@ -104,19 +104,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "FnbXCgP1cr",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-12T01:12:22.718Z",
-            "modifiedAt": "2025-02-12T01:12:22.718Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -382,7 +370,7 @@
           "Athlete"
         ],
         "createdAt": "2023-11-15T17:27:04.26Z",
-        "stagedAt": "2023-11-16T18:10:05.908Z",
+        "stagedAt": null,
         "publishedAt": "2023-11-16T18:10:05.908Z",
         "modifiedAt": "2025-02-12T01:11:31.89Z",
         "modifiedBy": {
@@ -393,19 +381,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "TlH-4IjNyG",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-02-12T01:11:31.303Z",
-            "modifiedAt": "2025-02-12T01:11:31.303Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   }
