@@ -3,9 +3,9 @@
   "href": "https://api-us.boxever.com/v3/flowDefinitions/6f39d448-1092-4263-9ff2-7c0475a89357",
   "ref": "6f39d448-1092-4263-9ff2-7c0475a89357",
   "name": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
-  "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-02-17T03:34:37.443Z",
-  "revision": 13,
+  "modifiedByRef": "auth0|6306f3c6a92b119da1de3a5e",
+  "modifiedAt": "2025-02-18T01:49:40.948Z",
+  "revision": 17,
   "archived": false,
   "friendlyId": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-02-17T03:34:37.567Z",
+    "modifiedAt": "2025-02-18T01:49:41.139Z",
     "splits": [
       {
         "template": "{\"variantId\": \"87ed8103a24846e4a8a233adb435330a\"}",
@@ -35,7 +35,26 @@
                 "params": {
                   "is": "is",
                   "before or after": "after",
-                  "date and time": "2025-02-28T11:30"
+                  "date and time": "2025-02-13T11:30"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "template": "{\"variantId\": \"c723eda99931493bb84a83e704ee4fbf\"}",
+        "variantName": "UTM Test",
+        "audienceName": "UTM Test",
+        "conditionGroups": [
+          {
+            "conditions": [
+              {
+                "templateId": "utm_value",
+                "params": {
+                  "type": "campaign",
+                  "compares to": "is equal to",
+                  "UTM value": "hidden"
                 }
               }
             ]
@@ -47,7 +66,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "adac72da-ca6f-4fd8-87a6-01e53d96c55a",
+      "ref": "51ebd879-b555-46c1-a8b6-75b522306b30",
       "name": "TimedTest",
       "tasks": [
         {
@@ -68,7 +87,7 @@
                 "name": "Combined condition groups",
                 "description": "Combined templates within condition group for targeted experience",
                 "ruleData": {
-                  "expression": "(function () {\n    load(\"classpath:moment.js\");\n    load(\"classpath:moment-timezone.js\");\n    var returnValue = false;\n    var comparison = false;\n    var comparator = \"is\";\n    var operatorValue = \"after\";\n    var datetime = \"2025-02-28T11:30\";\n    var tenantTimezone = \"\";\n\n    if (tenant && tenant.configurations && tenant.configurations.timeZone) {\n        tenantTimezone = tenant.configurations.timeZone;\n    }\n    var inputDateTime = moment.tz(datetime, tenantTimezone);\n    var tenantDateTime = moment.tz(tenantTimezone);\n    \n    if (operatorValue === 'before') {\n        comparison = tenantDateTime.isBefore(inputDateTime);\n    } else if (operatorValue === 'after') {\n        comparison = tenantDateTime.isAfter(inputDateTime);\n    }\n        \n    if (comparator === \"is\") {\n        returnValue = comparison;\n    } else {\n        returnValue = !comparison;\n    }\n    return returnValue;\n})();"
+                  "expression": "(function () {\n    load(\"classpath:moment.js\");\n    load(\"classpath:moment-timezone.js\");\n    var returnValue = false;\n    var comparison = false;\n    var comparator = \"is\";\n    var operatorValue = \"after\";\n    var datetime = \"2025-02-13T11:30\";\n    var tenantTimezone = \"\";\n\n    if (tenant && tenant.configurations && tenant.configurations.timeZone) {\n        tenantTimezone = tenant.configurations.timeZone;\n    }\n    var inputDateTime = moment.tz(datetime, tenantTimezone);\n    var tenantDateTime = moment.tz(tenantTimezone);\n    \n    if (operatorValue === 'before') {\n        comparison = tenantDateTime.isBefore(inputDateTime);\n    } else if (operatorValue === 'after') {\n        comparison = tenantDateTime.isAfter(inputDateTime);\n    }\n        \n    if (comparator === \"is\") {\n        returnValue = comparison;\n    } else {\n        returnValue = !comparison;\n    }\n    return returnValue;\n})();"
                 }
               }
             ]

@@ -65,8 +65,60 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{864EC42A-D006-49B4-840D-25FC27EE911D}"
+              uid="{7931E7BF-3317-473C-B2D3-9BE35B010056}"
               p:before="*"
+              s:ds="afb23041-6733-44b0-843c-193713f55c7d"
+              s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
+              s:par="ComponentName=Speaker%20Promo&amp;ComponentConfiguration&amp;LibraryId=7cJjV2BhktKFuAMtWbFRei&amp;ComponentId=KzEssOTo6j&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https%3A%2F%2Ffeaas.blob.core.windows.net&amp;ComponentInstanceId=M_5nQdKjnJy7CHT&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Speaker%20Promo&amp;GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/sxa-main/container-1/container-1">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{4A04A783-4771-47A3-87CE-6045B57CA7CF}"
+                    s:name="87ed8103a24846e4a8a233adb435330a">
+                    <conditions>
+                      <condition
+                        uid="9E28B11288BB4547B4BEE03EE73BC8FF"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="87ed8103a24846e4a8a233adb435330a" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{C382CE83-1DDD-4818-8FD9-C8E8B83A8D15}"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{E9BECE4E-046B-41F3-9A1C-62A3CE3F5A31}"
+                    s:name="c723eda99931493bb84a83e704ee4fbf">
+                    <conditions>
+                      <condition
+                        uid="53E595BC54AD46E5AE843198522B0A4A"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="c723eda99931493bb84a83e704ee4fbf" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{0D0087DD-21A6-4EAA-BFBD-EF29705E1D88}"
+                        s:id="{25F351A1-712D-45F8-857D-8AD95BB2ACE9}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="8498640A506F4974A3AACE8E045794B9"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+            <r
+              uid="{864EC42A-D006-49B4-840D-25FC27EE911D}"
+              p:after="r[@uid='{7931E7BF-3317-473C-B2D3-9BE35B010056}']"
               s:id="{2C3F134C-598D-4E2D-87F4-08B0EB0D5C3E}"
               s:par="ColumnSize1=basis-1-3&amp;ColumnSize2=basis-1-3&amp;ColumnSize3=basis-1-3&amp;ColumnSize4&amp;ColumnSize5&amp;ColumnSize6&amp;ColumnSize7&amp;ColumnSize8&amp;ContainerStyles=gap%3A%205px%3B%20width%3A%20100%25%3B%20padding%3A%200px%200px%200px%200px&amp;EnabledColumns=3&amp;ColumnStyle1=flex-row%20wrap%20justify-start%20items-center&amp;ColumnStyle2=flex-col%20no-wrap%20justify-start%20items-center&amp;ColumnStyle3=flex-col%20no-wrap%20justify-start%20items-start&amp;ColumnStyle4&amp;ColumnStyle5&amp;ColumnStyle6&amp;ColumnStyle7&amp;ColumnStyle8&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;StackColumnAt=md"
               s:ph="/headless-main/sxa-main/container-1/container-1" />
@@ -176,7 +228,54 @@ Languages:
               s:ds="local:/Data/Text 1"
               s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
               s:par="GridParameters=%7BF61E01E9-711A-4C99-AE30-4E28463E1DF7%7D&amp;FieldNames=%7B01F60C86-FA57-4566-AFBE-3A7BDC2A2777%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
-              s:ph="/headless-main/sxa-main/container-1/container-1/layout-column-1-5" />
+              s:ph="/headless-main/sxa-main/container-1/container-1/layout-column-1-5">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{B9A2323E-BE40-43AD-85AD-865FB2B2876F}"
+                    s:name="87ed8103a24846e4a8a233adb435330a">
+                    <conditions>
+                      <condition
+                        uid="7F9520B0D9CA442FAA85B9805B9E55A4"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="87ed8103a24846e4a8a233adb435330a" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{2356596A-3A66-4A3A-8CA1-9DB0424B1288}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="bf6de25d-c7b9-4e86-b357-7883e9ac7a4f" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{4EDC7FCA-8A8D-4A57-A96C-B9DCE61F6945}"
+                    s:name="c723eda99931493bb84a83e704ee4fbf">
+                    <conditions>
+                      <condition
+                        uid="64AADE73453C43B78BA58C00F8FCAFC0"
+                        s:id="{8E7426A4-12ED-4C44-8625-E7191860E726}"
+                        s:VariantName="c723eda99931493bb84a83e704ee4fbf" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="{69C70882-DB25-4435-9C30-8FB614E1CC41}"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="89fc62b6-59f9-466a-b02f-dee6e741be83" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default">
+                    <conditions>
+                      <condition
+                        uid="4C988A616900457B83C445AC0108DAF6"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
             <r
               uid="{47B23351-5363-4193-82C1-C292ED4DCF45}"
               p:after="*[1=2]"
@@ -197,7 +296,7 @@ Languages:
       Value: Sean Test
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a5ad4923-2919-4e1f-8f12-b36051d29f38"
+      Value: "dd6cc6d7-1f6c-4ac1-88bf-72caf66c5399"
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20250206T030343Z

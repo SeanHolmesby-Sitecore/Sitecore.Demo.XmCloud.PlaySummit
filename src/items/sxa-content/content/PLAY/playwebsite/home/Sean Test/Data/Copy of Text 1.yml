@@ -1,8 +1,8 @@
 ﻿---
-ID: "f6983ee8-80b6-4b90-809c-2304cdd01073"
+ID: "89fc62b6-59f9-466a-b02f-dee6e741be83"
 Parent: "e70baf15-78a9-4e4c-ae81-3f9fffcbbf26"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/Data/Text 1
+Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/Data/Copy of Text 1
 Languages:
 - Language: en
   Versions:
@@ -14,7 +14,7 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <div class="ck-content"><p>Some text here to see how the demo goes and if it will be contained into this area?</p></div>
+        <div class="ck-content"><p>This is the hidden page.</p><p>Some text here to see how the demo goes and if it will be contained into this area?</p></div>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3ca7ba58-4517-456f-a41c-b46efa0acb9c"
+      Value: "1ac27e48-12bb-4cd1-80b4-e83f0b8e8ec5"
