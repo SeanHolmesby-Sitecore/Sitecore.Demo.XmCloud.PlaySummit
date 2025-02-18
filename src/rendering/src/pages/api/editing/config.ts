@@ -11,7 +11,7 @@ import metadata from 'temp/metadata.json';
 const handler = new EditingConfigMiddleware({
   components,
   metadata,
-  pagesEditMode: EditMode.Chromes,
+  pagesEditMode: EditMode.Metadata,
 }).getHandler();
 
 export default handler;
