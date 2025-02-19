@@ -3,6 +3,10 @@ ID: "cd486fd8-73bd-4d90-9128-a0ead133f69a"
 Parent: "18ba797b-2ce9-411c-a72f-b9bb0ac450e7"
 Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
 Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/Demo Link List/Seany
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -14,4 +18,4 @@ Languages:
         <link text="Seany Test Link" linktype="external" url="https://www.google.com" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "58295a1b-ea00-46d6-8378-70f86b0869c4"
+      Value: "3b369513-8c84-41c4-8cab-11f48d5159d6"

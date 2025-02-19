@@ -8,6 +8,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "0454f4d4-38d7-51cc-a08a-e5c69eed9a5c"
       Hint: RightTitle
       Value: View Vendors
@@ -39,7 +42,7 @@ Languages:
         <image mediaid="{21C5D87C-3E77-4AFA-82FF-665B15EA7806}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6721f569-15be-42b5-9b45-e4379b8343f4"
+      Value: "6b84fd00-3674-4d54-83d4-e26303cbaa2b"
     - ID: "a8282684-a5d5-57be-b6f6-a509c6ccdbe3"
       Hint: LeftTitle
       Value: 48 Talks and Workshops
@@ -49,7 +52,7 @@ Languages:
         <link class="" id="{1F4B781B-F2A5-5647-99DF-C0C369162C4D}" querystring="" anchor="" title="" linktype="internal" text="View Speakers" url="/PLAY/playwebsite/home/speakers" />
     - ID: "da225a0d-6c21-5207-9510-6089e5352730"
       Hint: Subtitle
-      Value: "Whether you’re joining us in person or online, this year’s PLAY! Summit is set to be our biggest and best event yet. Look forward to an action-packed line-up featuring keynotes, Q&As, demos, and workshops across a mix of live and virtual stages."
+      Value: "Whether you’re joining us in person or online, this year’s PLAY! Summit is set to be our biggest and best event yet. Hello. Look forward to an action-packed line-up featuring keynotes, Q&As, demos, and workshops across a mix of live and virtual stages."
 - Language: "fr-CA"
   Versions:
   - Version: 1

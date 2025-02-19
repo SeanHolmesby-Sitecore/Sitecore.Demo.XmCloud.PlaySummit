@@ -17,17 +17,6 @@ SharedFields:
 Languages:
 - Language: en
   Versions:
-  - Version: 1
-    Fields:
-    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
-      Hint: __Workflow state
-      Value: "{F103752C-F458-47E0-B322-99785275BDB9}"
-    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
-      Hint: __Revision
-      Value: "23aa59a6-9c29-4acd-9bfb-cd3b86d9dfe9"
-    - ID: "dc9aaee9-fc44-458d-a9fb-bac61d8b0234"
-      Hint: Title
-      Value: "Useful Links:"
   - Version: 2
     Fields:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
@@ -38,7 +27,7 @@ Languages:
       Value: "{836E0687-CDFF-4087-9E3B-C8ECAFE11746}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7aeb7090-3c22-42c1-b0f0-aa1dc642b12b"
+      Value: "4afd6f66-92ba-496d-ac74-c068cd77a651"
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20250206T015027Z

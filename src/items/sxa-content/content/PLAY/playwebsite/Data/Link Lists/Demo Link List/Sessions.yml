@@ -5,6 +5,9 @@ Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
 Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/Demo Link List/Sessions
 BranchID: "f2490b61-7d7d-4bbf-8cf6-3b355fdf4ce4"
 SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0D4590EB-C925-4056-BDB9-222EC424247B}"
@@ -19,4 +22,4 @@ Languages:
         <link text="Sessions" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{68DC89A4-1B04-59A8-9C4E-3B49D6C61052}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5a09f06d-0f66-49ff-8c25-fcb201627ab5"
+      Value: "2e55d8a9-2d2b-4a69-b840-0c0dad1f8dc7"

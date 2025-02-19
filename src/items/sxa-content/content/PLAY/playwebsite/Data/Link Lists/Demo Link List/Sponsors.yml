@@ -3,6 +3,10 @@ ID: "4de67133-4e4e-4e7d-888a-f599a0c72b4e"
 Parent: "18ba797b-2ce9-411c-a72f-b9bb0ac450e7"
 Template: "6f108e3c-5d57-42f8-a910-c22920269b0a"
 Path: /sitecore/content/PLAY/playwebsite/Data/Link Lists/Demo Link List/Sponsors
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
 Languages:
 - Language: en
   Versions:
@@ -14,4 +18,4 @@ Languages:
         <link text="Sponsors" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{66C99E47-7BBF-52D1-B1D7-4662B850744A}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "125adb16-0d42-4325-90a2-c9e65da938d9"
+      Value: "2e5a3a46-8535-43a7-b4a2-eb7f5d22d434"
