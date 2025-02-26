@@ -1,0 +1,18 @@
+﻿---
+ID: "1dd59aa0-82b8-4f3c-b257-66f91e3734bb"
+Parent: "e6861cb9-3148-44a5-91ce-0d4fa97cd346"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/Seany/Data
+BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE55A51D-753E-4F2C-9184-B795EF200CBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d81c308-c622-4d6f-b309-ff470eb3b9ba"
