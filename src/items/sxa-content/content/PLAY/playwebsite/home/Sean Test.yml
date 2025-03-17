@@ -69,7 +69,7 @@ Languages:
               p:before="*"
               s:ds="afb23041-6733-44b0-843c-193713f55c7d"
               s:id="{CAA0C742-F052-49FB-825B-A03494798DB7}"
-              s:par="ComponentName=Speaker Promo&amp;ComponentConfiguration&amp;LibraryId=18z0FsQwIukak2yhGvN3sq&amp;ComponentId=KzEssOTo6j&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=M_5nQdKjnJy7CHT&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Speaker Promo&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:par="ComponentName=Speaker Promo&amp;ComponentConfiguration&amp;LibraryId=2UFHGYVAP5AAaRHiXVf52I&amp;ComponentId=KzEssOTo6j&amp;ComponentVersion=responsive&amp;ComponentRevision=staged&amp;ComponentHostName=https://feaas.blob.core.windows.net&amp;ComponentInstanceId=M_5nQdKjnJy7CHT&amp;ComponentDataOverride&amp;ComponentHTMLOverride&amp;ComponentLabel=Speaker Promo&amp;GridParameters={F61E01E9-711A-4C99-AE30-4E28463E1DF7}&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
               s:ph="/headless-main/sxa-main/container-1/container-1">
               <rls>
                 <ruleset
@@ -296,7 +296,7 @@ Languages:
       Value: Sean Test
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "329e09c2-cec2-4c98-99ed-efea22a27efb"
+      Value: "28315500-d141-4d36-accf-bb591fa012f3"
     - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
       Hint: __Valid from
       Value: 20250219T023637Z
