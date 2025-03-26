@@ -4,8 +4,8 @@
   "ref": "6f39d448-1092-4263-9ff2-7c0475a89357",
   "name": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-03-18T23:46:43.207Z",
-  "revision": 33,
+  "modifiedAt": "2025-03-26T03:01:54.502Z",
+  "revision": 35,
   "archived": false,
   "friendlyId": "embedded_{scope}_08a4f8e0c8c243c5990f5196b6ec80bd_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-03-18T23:46:43.215Z",
+    "modifiedAt": "2025-03-26T03:01:54.524Z",
     "splits": [
       {
         "template": "{\"variantId\": \"87ed8103a24846e4a8a233adb435330a\"}",
@@ -66,7 +66,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "878b15d1-4438-4225-85e0-b72549806e37",
+      "ref": "fcc2a842-5a1b-48f8-9a8e-2892a7abdb96",
       "name": "UTM Test",
       "tasks": [
         {
