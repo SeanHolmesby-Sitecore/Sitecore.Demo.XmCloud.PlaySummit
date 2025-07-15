@@ -16,6 +16,9 @@ SharedFields:
 Languages:
 - Language: da
   Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f2926192-b9f7-4b97-9c48-ed0d1a1173fa"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Hoved
@@ -27,6 +30,9 @@ Languages:
       Value: "4f0213b5-1380-4a5a-ba3c-4cc1a343747e"
 - Language: "de-DE"
   Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f2926192-b9f7-4b97-9c48-ed0d1a1173fa"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: Haupt
@@ -49,6 +55,9 @@ Languages:
       Value: "5b25697e-6fb7-4ac7-a101-3822b034f859"
 - Language: "ja-JP"
   Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f2926192-b9f7-4b97-9c48-ed0d1a1173fa"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: メイン
@@ -60,6 +69,9 @@ Languages:
       Value: "4f0213b5-1380-4a5a-ba3c-4cc1a343747e"
 - Language: "zh-CN"
   Fields:
+  - ID: "30e85e5d-e00a-4864-b358-7624d511deb4"
+    Hint: __Unversioned revision
+    Value: "f2926192-b9f7-4b97-9c48-ed0d1a1173fa"
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
     Value: 主要

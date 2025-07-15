@@ -1,0 +1,37 @@
+﻿---
+ID: "439b317c-c2bd-4d1e-abb1-cb6af52c41e7"
+Parent: "da301dc4-c033-47a1-92cd-c3236cf3f783"
+Template: "aa57d7e3-5641-440e-86d8-57d1593f5edb"
+Path: /sitecore/content/PLAY/playwebsite/Data/TileLists/Tile List 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "417ac281-42dc-423e-a1e2-16fe53294109"
+      Hint: Heading
+      Value: Tile List 1 Title
+    - ID: "4286707d-7ada-4e3c-96ca-910591e78998"
+      Hint: TilesTreelistEx
+      Value: |
+        {9E21F3DD-EA7B-4354-9EED-FC8FC2828264}
+        {8EFE7BF6-0FC7-4469-98AC-5200C633C4AC}
+        {0E1DC450-889C-435B-A228-17CAC03583D2}
+        {3F0B674F-2D3A-49E7-95A3-2FA6409379EC}
+    - ID: "5112dba6-880d-4a13-9472-7ad76133486b"
+      Hint: Tiles
+      Value: |
+        {9E21F3DD-EA7B-4354-9EED-FC8FC2828264}
+        {8EFE7BF6-0FC7-4469-98AC-5200C633C4AC}
+        {0E1DC450-889C-435B-A228-17CAC03583D2}
+        {3F0B674F-2D3A-49E7-95A3-2FA6409379EC}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b514fd8-f837-4000-a07d-3c141b805078"
+    - ID: "ebd6ed57-db3b-48d9-9828-754054f2a5dc"
+      Hint: TilesTreelist
+      Value: |
+        {9E21F3DD-EA7B-4354-9EED-FC8FC2828264}
+        {8EFE7BF6-0FC7-4469-98AC-5200C633C4AC}
+        {0E1DC450-889C-435B-A228-17CAC03583D2}
+        {3F0B674F-2D3A-49E7-95A3-2FA6409379EC}

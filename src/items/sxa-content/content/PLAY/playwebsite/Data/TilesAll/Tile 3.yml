@@ -1,0 +1,20 @@
+﻿---
+ID: "0e1dc450-889c-435b-a228-17cac03583d2"
+Parent: "c79a5838-76c7-49f6-9e8f-214a9e246af9"
+Template: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Path: /sitecore/content/PLAY/playwebsite/Data/TilesAll/Tile 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e4aab63-872e-4177-95bb-78298ff62004"
+      Hint: Title
+      Value: Tile 3 Title
+    - ID: "8186401e-66be-4929-a55a-e1eb54b80a43"
+      Hint: Icon
+      Value: |
+        <image mediaid="{1E0FDAC7-872B-4C9A-94A4-682516F11A18}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8859f528-4338-419d-9df7-0971a19a3e8f"

@@ -1,0 +1,18 @@
+﻿---
+ID: "fb9573bd-e750-43da-9800-789cd958b402"
+Parent: "eda1a577-51d5-4886-be1f-cc25d0a8e1a2"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/PLAY/playwebsite/home/Sean Test/CB Test/Data
+BranchID: "757e8bd1-9a5e-416c-ad3f-c7a22981d285"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CE55A51D-753E-4F2C-9184-B795EF200CBF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6977f42-d717-4a3c-9f8e-1f1d2006bcb5"

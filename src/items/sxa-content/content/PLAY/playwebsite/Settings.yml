@@ -87,7 +87,7 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "21b5d63b-5bdb-44b8-bbfa-fbdbb7160b37"
+      Value: "37d752dc-8694-4493-921e-1ffc18c09823"
     - ID: "9ce73b35-34d3-49dc-bd5a-ce1e8267fda9"
       Hint: ComponentDataSourceTemplates
       Value: |
@@ -95,3 +95,4 @@ Languages:
         {3B884B30-54C1-464C-AADD-F8BD94E7C38E}
         {D8AA73E1-C275-4EEE-BB9D-333925E51952}
         {DFED4457-D760-457A-BEC1-C0DCCDC44381}
+        {AA57D7E3-5641-440E-86D8-57D1593F5EDB}

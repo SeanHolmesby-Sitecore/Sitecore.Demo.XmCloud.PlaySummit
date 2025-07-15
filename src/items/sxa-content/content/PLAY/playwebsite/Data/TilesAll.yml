@@ -1,0 +1,22 @@
+﻿---
+ID: "c79a5838-76c7-49f6-9e8f-214a9e246af9"
+Parent: "44864379-85fa-46df-a102-35a8bc2391b5"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/PLAY/playwebsite/Data/TilesAll
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {ACC7BF06-44B1-40B4-9F1E-08BD399269BB}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "2abdd396-55da-43e9-bf0b-c5dadc060058"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b992d78-fbbc-4096-a2b0-c3bc07f35a78"

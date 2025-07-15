@@ -1,0 +1,24 @@
+﻿---
+ID: "6edb376a-4d06-4a4b-91e2-0f63885292a4"
+Parent: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Template: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Path: /sitecore/templates/Project/Global/Tile/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e4aab63-872e-4177-95bb-78298ff62004"
+      Hint: Title
+      Value: $name
+    - ID: "8186401e-66be-4929-a55a-e1eb54b80a43"
+      Hint: Icon
+      Value: |
+        <image mediaid="{44D10318-60A1-4445-906D-B346E5D5E541}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2ad43ad-6fce-4a5c-a2bb-a382a1d9398d"
+    - ID: "cb7efc1c-b312-4a68-baa2-4877f4a5e7e6"
+      Hint: Link
+      Value: |
+        <link text="My Home Link" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2D1D7ACA-9597-5CA6-85B2-9B04907E4298}" />

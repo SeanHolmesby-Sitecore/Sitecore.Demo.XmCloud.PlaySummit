@@ -1,0 +1,24 @@
+﻿---
+ID: "8efe7bf6-0fc7-4469-98ac-5200c633c4ac"
+Parent: "c79a5838-76c7-49f6-9e8f-214a9e246af9"
+Template: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Path: /sitecore/content/PLAY/playwebsite/Data/TilesAll/Tile 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e4aab63-872e-4177-95bb-78298ff62004"
+      Hint: Title
+      Value: Tile 2 Title
+    - ID: "8186401e-66be-4929-a55a-e1eb54b80a43"
+      Hint: Icon
+      Value: |
+        <image mediaid="{2580CAF2-868E-4F97-95AB-4BCB27C1CD02}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fbb5175-0d51-4c4d-99af-b4a254a48d52"
+    - ID: "cb7efc1c-b312-4a68-baa2-4877f4a5e7e6"
+      Hint: Link
+      Value: |
+        <link text="My Seany Link" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E6861CB9-3148-44A5-91CE-0D4FA97CD346}" />

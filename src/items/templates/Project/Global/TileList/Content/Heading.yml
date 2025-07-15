@@ -1,0 +1,23 @@
+﻿---
+ID: "417ac281-42dc-423e-a1e2-16fe53294109"
+Parent: "2a05a925-4603-402c-b1fa-2e124c451ce9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Global/TileList/Content/Heading
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "100ec9f5-6de2-4c69-b9fa-c7e39444f808"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11876170-714b-4887-b114-f312abb4c0ad"

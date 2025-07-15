@@ -1,0 +1,20 @@
+﻿---
+ID: "9e21f3dd-ea7b-4354-9eed-fc8fc2828264"
+Parent: "c79a5838-76c7-49f6-9e8f-214a9e246af9"
+Template: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Path: /sitecore/content/PLAY/playwebsite/Data/TilesAll/Tile 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e4aab63-872e-4177-95bb-78298ff62004"
+      Hint: Title
+      Value: Tile 1 Title
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88834cbc-d15e-4819-911c-e8c5cfdebcbe"
+    - ID: "cb7efc1c-b312-4a68-baa2-4877f4a5e7e6"
+      Hint: Link
+      Value: |
+        <link text="My Sean Test Link" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{08A4F8E0-C8C2-43C5-990F-5196B6EC80BD}" />

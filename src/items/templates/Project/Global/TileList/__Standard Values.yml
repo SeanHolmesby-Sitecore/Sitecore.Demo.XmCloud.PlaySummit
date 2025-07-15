@@ -1,0 +1,16 @@
+﻿---
+ID: "c30588bc-5255-48d0-a020-bad178c52931"
+Parent: "aa57d7e3-5641-440e-86d8-57d1593f5edb"
+Template: "aa57d7e3-5641-440e-86d8-57d1593f5edb"
+Path: /sitecore/templates/Project/Global/TileList/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "417ac281-42dc-423e-a1e2-16fe53294109"
+      Hint: Heading
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c00155e5-cb96-41da-9e7c-6ebb9c855e33"

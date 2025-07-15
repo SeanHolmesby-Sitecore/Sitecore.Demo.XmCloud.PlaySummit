@@ -1,0 +1,20 @@
+﻿---
+ID: "3f0b674f-2d3a-49e7-95a3-2fa6409379ec"
+Parent: "c79a5838-76c7-49f6-9e8f-214a9e246af9"
+Template: "acc7bf06-44b1-40b4-9f1e-08bd399269bb"
+Path: /sitecore/content/PLAY/playwebsite/Data/TilesAll/Tile 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "3e4aab63-872e-4177-95bb-78298ff62004"
+      Hint: Title
+      Value: Tile 4 Title
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2e45d8f-e7f0-4cfa-aee8-b8b504d426cb"
+    - ID: "cb7efc1c-b312-4a68-baa2-4877f4a5e7e6"
+      Hint: Link
+      Value: |
+        <link text="My Demo Pages Link" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{A7EEB734-4ABE-4BC2-A3D5-FEC2CB269269}" />

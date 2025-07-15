@@ -1,0 +1,26 @@
+﻿---
+ID: "4286707d-7ada-4e3c-96ca-910591e78998"
+Parent: "2a05a925-4603-402c-b1fa-2e124c451ce9"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Global/TileList/Content/TilesTreelistEx
+SharedFields:
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: /sitecore/content/PLAY/playwebsite/Data/TilesAll
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: TreelistEx
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "02ad7ae3-c7e5-4170-93b6-15f396bb5088"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76cbf65a-73a4-48dd-bc57-5411950ea9ec"
