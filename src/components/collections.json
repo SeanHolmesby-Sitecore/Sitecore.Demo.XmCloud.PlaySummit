@@ -33,19 +33,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "FhSP9bFSab",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-07-15T04:39:37.204Z",
-            "modifiedAt": "2025-07-15T04:39:37.204Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -72,19 +60,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "l3j6E3ln91",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-07-15T04:29:29.526Z",
-            "modifiedAt": "2025-07-15T04:29:29.526Z"
-          }
-        ]
+        "bundles": []
       },
       {
         "libraryId": "generated",
@@ -109,19 +85,7 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": [
-          {
-            "id": "responsive",
-            "libraryId": "generated",
-            "componentId": "LGyuelCzz9",
-            "name": "Default bundle",
-            "description": "",
-            "breakpoints": {},
-            "orderIdx": "",
-            "createdAt": "2025-07-15T04:06:08.068Z",
-            "modifiedAt": "2025-07-15T04:06:08.068Z"
-          }
-        ]
+        "bundles": []
       }
     ]
   },
