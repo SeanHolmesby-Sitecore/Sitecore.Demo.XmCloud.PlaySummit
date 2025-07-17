@@ -4,8 +4,8 @@
   "ref": "ae4eba9c-e1ee-4b6d-ae36-ad1c2621e6d4",
   "name": "embedded_{scope}_e6861cb9314844a591ce0d4fa97cd346_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2025-07-15T11:44:34.196Z",
-  "revision": 4,
+  "modifiedAt": "2025-07-16T23:43:22.351Z",
+  "revision": 6,
   "archived": false,
   "friendlyId": "embedded_{scope}_e6861cb9314844a591ce0d4fa97cd346_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -21,7 +21,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2025-07-15T11:44:34.206Z",
+    "modifiedAt": "2025-07-16T23:43:22.37Z",
     "splits": [
       {
         "template": "{\"variantId\": \"1c74306c23534ef8b41221873f1fe0f8\"}",
@@ -47,7 +47,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "5b5091ce-828c-4179-b185-701248fb5948",
+      "ref": "78ef61d0-93ab-452f-9ea6-cd60df51ec46",
       "name": "TimedTest",
       "tasks": [
         {

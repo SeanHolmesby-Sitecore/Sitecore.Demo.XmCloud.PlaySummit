@@ -33,7 +33,19 @@
           "givenName": "Sean",
           "familyName": "Holmesby"
         },
-        "bundles": []
+        "bundles": [
+          {
+            "id": "responsive",
+            "libraryId": "generated",
+            "componentId": "FhSP9bFSab",
+            "name": "Default bundle",
+            "description": "",
+            "breakpoints": {},
+            "orderIdx": "",
+            "createdAt": "2025-07-17T00:29:18.247Z",
+            "modifiedAt": "2025-07-17T00:29:18.247Z"
+          }
+        ]
       },
       {
         "libraryId": "generated",
